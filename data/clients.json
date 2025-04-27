@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "f09d2e39-fc6c-4e16-af59-bf0c7082a634",
+    "firstName": "Mayai",
+    "lastName": "Maradhi",
+    "dob": "1964-02-01",
+    "gender": "Male",
+    "address": "00100 Nairobi",
+    "phone": "1234567890",
+    "email": "",
+    "registeredAt": "2025-04-27T16:34:07.573Z",
+    "programs": [
+      "c77cb8c9-d21a-4f67-b582-d0d7d59df19f"
+    ]
+  },
+  {
+    "id": "f3f99e02-162a-4e65-84a4-c5d36d3ee975",
+    "firstName": "Baby",
+    "lastName": "Zawadi",
+    "dob": "2024-02-15",
+    "gender": "Female",
+    "address": "80100 Mombasa",
+    "phone": "0987654321",
+    "email": "",
+    "registeredAt": "2025-04-27T17:25:52.729Z",
+    "programs": [
+      "62c8af17-6557-4855-b8d4-983b98b21155"
+    ]
+  }
+]

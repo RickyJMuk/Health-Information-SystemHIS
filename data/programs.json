@@ -4,5 +4,11 @@
     "name": "Dialysis",
     "description": "Performing dialysis",
     "createdAt": "2025-04-25T15:32:32.220Z"
+  },
+  {
+    "id": "62c8af17-6557-4855-b8d4-983b98b21155",
+    "name": "Immunization",
+    "description": "A comphrensive immunization schedule for infants aged 0-5 years",
+    "createdAt": "2025-04-27T17:24:55.586Z"
   }
 ]
